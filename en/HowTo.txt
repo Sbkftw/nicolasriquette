@@ -1,0 +1,3 @@
+bundle exec jekyll serve --trace
+
+deploy : content of "_site" in remote's "public_html"

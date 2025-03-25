@@ -1,0 +1,7 @@
+bundle exec jekyll serve --trace
+
+HOSTINGER:
+	deploy : content of "_site" in remote's "public_html"
+
+GITHUB PAGES:
+	Easy
